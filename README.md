@@ -1,4 +1,4 @@
-# tensorflow_basics
+# Tensorflow_basics
 
 **Technologies**: Python3, Tensorflow, tensorboard, machine learning, Deep Learning, KNN 
 
@@ -69,7 +69,7 @@ Or you can just swipe through to grasp the summary.
 * Output of one tensor is feeded to the input of the next node.
 
 <center>
-<img src="https://github.com/Gaurav-Pande/MLCC/blob/master/tensorflow_basics/assets/1.png"/>
+<img src="assets/1.png"/>
 </center>
 
 
@@ -675,7 +675,7 @@ of length of those vertical lines.
 * most of the distance measurements are like euclidean distance, hamming distance(remember Networking :D), etc
 
 <center>
-<img src="https://github.com/Gaurav-Pande/MLCC/blob/master/tensorflow_basics/assets/2.png"/>
+<img src="assets/2.png"/>
 </center>
 
 
@@ -685,7 +685,7 @@ of length of those vertical lines.
  * euclidean distance. it is like a displacement, i.e join directly two points and find the distance.
  
  <center>
-<img src="https://github.com/Gaurav-Pande/MLCC/blob/master/tensorflow_basics/assets/3.png"/>
+<img src="assets/3.png"/>
 </center>
 
  
@@ -693,7 +693,7 @@ of length of those vertical lines.
  * with grayscale images we use L1 distance(snake distance): 
  
  <center>
-<img src="https://github.com/Gaurav-Pande/MLCC/blob/master/tensorflow_basics/assets/4.png"/>
+<img src="assets/4.png"/>
 </center>
 
  
