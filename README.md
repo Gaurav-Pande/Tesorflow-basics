@@ -1,7 +1,5 @@
 # Tensorflow_basics
-<center>
-<img src="assets/1.png"/>
-</center>
+
 
 **Technologies**: Python3, Tensorflow, tensorboard, machine learning, Deep Learning, KNN 
 
@@ -14,6 +12,10 @@ You can directly run this project using google collab: [link](https://colab.rese
 Or you can just swipe through to grasp the summary.
 
 ## Basics
+
+<center>
+<img src="assets/1.png"/>
+</center>
 
 ### Supervised ML algorithms:
 
@@ -661,6 +663,9 @@ of length of those vertical lines.
 
 
 #### KNN
+<center>
+<img src="assets/2.png"/>
+</center>
 
 * It is a supervised machine learning algorithm which uses the training data to find what is similar to the current sample.
 
@@ -674,32 +679,24 @@ of length of those vertical lines.
 
 * most of the distance measurements are like euclidean distance, hamming distance(remember Networking :D), etc
 
-<center>
-<img src="assets/2.png"/>
-</center>
+
 
 
 
 ##### Distance Measures:
+<center>
+<img src="assets/3.png"/>
+</center>
  
  * euclidean distance. it is like a displacement, i.e join directly two points and find the distance.
  
- <center>
-<img src="assets/3.png"/>
-</center>
-
- 
- 
  * with grayscale images we use L1 distance(snake distance): 
- 
- <center>
-<img src="assets/4.png"/>
-</center>
 
- 
- 
  * you can observe that euclidean is more shorter than L1.
  
+<center>
+<img src="assets/4.png"/>
+</center> 
 ### KNN implementation steps:
 
 1.  Getting MNIST images from dataset and test images in batches to tensorflow libraries
