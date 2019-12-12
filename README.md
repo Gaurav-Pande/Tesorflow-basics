@@ -1,4 +1,7 @@
 # Tensorflow_basics
+<center>
+<img src="assets/1.png"/>
+</center>
 
 **Technologies**: Python3, Tensorflow, tensorboard, machine learning, Deep Learning, KNN 
 
@@ -68,9 +71,6 @@ Or you can just swipe through to grasp the summary.
 * Each node in the graph is called compute node and the edges connecting the nodes are known as tensors.
 * Output of one tensor is feeded to the input of the next node.
 
-<center>
-<img src="assets/1.png"/>
-</center>
 
 
 * Than we initiate a session to execute the graph.
